@@ -14,10 +14,6 @@ const Showcase = () => {
         <h2 className="showcase-header-text h-color">
           The only discord bots youll ever need!
         </h2>
-        <p className="showcase-para p-color">
-          One of the awesome discord bot with tons of commands that will fill
-          your needs in your discord server.
-        </p>
 
         <div className="showcase-btn">
           <button className="btn">
